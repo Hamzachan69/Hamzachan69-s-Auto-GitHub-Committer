@@ -69,11 +69,12 @@ Follow the steps for your Operating System to set up your repository and make au
 
 2.  **Step 1: Get the Script (Hyperlink Download):**
     <p align="center">
-      <a href="https://raw.githubusercontent.com/HamzaChan69/HamzaChan69-s-Auto-GitHub-Committer/main/autocommit.py">
+      <a href="https://raw.githubusercontent.com/HamzaChan69/HamzaChan69-s-Auto-GitHub-Committer/main/autocommit.py" download>
         <img src="https://img.shields.io/badge/Download-autocommit.py-blue?style=for-the-badge&logo=python" alt="Download Script">
       </a>
     </p>
-    
+     Tip:
+             Click the badge above to download. If it opens in a new tab, just press `Ctrl + S` to save it.
 
 3.  **Step 2: Setup Your Log:**
     * Create a new GitHub repo (Public or Private) named `my-daily-log`.
