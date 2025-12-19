@@ -1,7 +1,9 @@
-![Auto Committer Banner](./assets/banner.png)
+
 
 # 🚀 HamzaChan69's Auto GitHub Committer
 
+
+![Auto Committer Banner](./ReadMe%20Assets/Gemini_Generated_Image_p949lzp949lzp949.png)
 **A smart, OS-aware Python script to automate your daily GitHub activity with style.**
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)](https://www.python.org/)
@@ -23,10 +25,10 @@
 
 ## 🛑 The Problem & 🕵️ The Mystery
 
-**The Struggle:** You want that legendary "All Green" GitHub profile, but life gets in the way. Manually editing files just to keep a streak alive is tedious and boring.
+**The Struggle:** You want a green GitHub profile. But making small changes and adding code every day by hand is very tedious. It is tiring and starts tearing a person down after a while.
 
 <p align="center">
-  <img src="https://i.imgflip.com/5xy5qs.png" width="500" alt="Distracted Boyfriend: Automation vs Manual Commits">
+  <img src="./ReadMe%20Assets/5d95873d98e7b97ffabb8f28c225f553__1_-removebg-preview.png" width="500" alt="Distracted Boyfriend: Automation vs Manual Commits">
 </p>
 
 **The Mystery:** Do I actually use this script myself? Maybe... maybe not. That is a mystery you’ll have to solve! 😂 But while you're guessing, this script is busy keeping everything green.
@@ -34,11 +36,16 @@
 ### 🌿 The Result: An Evergreen Profile
 With this script running, your contribution graph becomes a lush forest of consistency.
 
-![My Evergreen Graph](./assets/green-graph.png)
+<p align="center">
+  <img src="./ReadMe%20Assets/1722092058475.png" width="500" alt="Distracted Boyfriend: Automation vs Manual Commits">
+</p>
+
 
 **The Solution:** **No More Manual Edits.** This tool pulls your repo, picks a random catchy phrase, logs it, and pushes it to GitHub automatically.
+<p align="center">
+  <img src="./ReadMe%20Assets/0215f998d77a1c5fdfc9f8fd3a20ca34 (1).png" width="500" alt="Distracted Boyfriend: Automation vs Manual Commits">
+</p>
 
----
 
 ## 📜 Instructions
 
